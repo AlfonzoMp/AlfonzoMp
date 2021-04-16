@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlfonzoMp
 - 👀 I’m interested in Industry 4.0
-- 🌱 I’m currently learning Advanced automation
+- 🌱 I’m currently learning advance automation algorithms
 - 💞️ I’m looking to collaborate on C# projects
 - 📫 Leave your messages 
 
